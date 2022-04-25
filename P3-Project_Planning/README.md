@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://lucid.app/lucidchart/2e3b5003-8294-4023-8445-f2d0c50d0c5e/edit?invitationId=inv_c3947994-da3a-4fc7-b36b-241fa0828efc
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/hW93I0Nm/capstone-project
 
 ### Project Repo Link
 
